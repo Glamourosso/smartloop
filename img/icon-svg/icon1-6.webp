@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon graph</title>
+    <defs>
+        <linearGradient x1="0%" y1="47.0893784%" x2="101.405791%" y2="47.0893784%" id="linearGradient-1">
+            <stop stop-color="#94DA56" offset="0%"></stop>
+            <stop stop-color="#94DA56" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sketch-Landing" transform="translate(-1138.000000, -5876.000000)">
+            <g id="p1-copy-4" transform="translate(1060.000000, 5773.000000)">
+                <g id="icon-graph" transform="translate(78.000000, 103.000000)">
+                    <circle id="Oval" fill="url(#linearGradient-1)" cx="25" cy="25" r="25"></circle>
+                    <g id="chat" transform="translate(16.000000, 16.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M9,0 C4.037625,0 0,4.037625 0,9 L0,17.4375 C0,17.748 0.252,18 0.5625,18 L9,18 C13.962375,18 18,13.962375 18,9 C18,4.037625 13.962375,0 9,0 Z M9.5625,11.25 L5.0625,11.25 C4.752,11.25 4.5,10.998 4.5,10.6875 C4.5,10.377 4.752,10.125 5.0625,10.125 L9.5625,10.125 C9.873,10.125 10.125,10.377 10.125,10.6875 C10.125,10.998 9.873,11.25 9.5625,11.25 Z M12.9375,7.875 L5.0625,7.875 C4.752,7.875 4.5,7.623 4.5,7.3125 C4.5,7.002 4.752,6.75 5.0625,6.75 L12.9375,6.75 C13.248,6.75 13.5,7.002 13.5,7.3125 C13.5,7.623 13.248,7.875 12.9375,7.875 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

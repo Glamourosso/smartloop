@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon</title>
+    <defs>
+        <linearGradient x1="20.1660156%" y1="85.7770647%" x2="100%" y2="21.3797433%" id="linearGradient-1">
+            <stop stop-color="#4190F8" offset="0%"></stop>
+            <stop stop-color="#5241F8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ChatBot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chatbot" transform="translate(-797.000000, -1781.000000)">
+            <g id="icon" transform="translate(797.000000, 1781.000000)">
+                <circle id="Oval-Copy-4" fill="url(#linearGradient-1)" cx="28" cy="28" r="28"></circle>
+                <path d="M25,17 C19.4771852,17 15,21.4771852 15,27 C15,28.5600517 15.3676038,30.0308533 16.0047179,31.346723 L15,37 L20.6533199,35.9952821 C21.9691467,36.6323962 23.4399483,37 25.0000429,37 C30.5229006,37 35.0000429,32.5228148 35.0000429,27 C35.0000429,21.4771852 30.5228577,17 25,17 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M32.9999828,23 C28.5817405,23 25,26.5817482 25,31 C25,32.2480413 25.2940824,33.4246826 25.8037726,34.4773784 L25,39 L29.5226462,38.1962257 C30.5753054,38.7059169 31.7519442,39 33.0000172,39 C37.4182939,39 41,35.4182518 41,31 C41,26.5817482 37.4182595,23 32.9999828,23 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero" opacity="0.448242188" transform="translate(33.000000, 31.000000) scale(-1, 1) translate(-33.000000, -31.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

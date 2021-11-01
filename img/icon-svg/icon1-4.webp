@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon graph</title>
+    <defs>
+        <linearGradient x1="0%" y1="47.0893784%" x2="101.405791%" y2="47.0893784%" id="linearGradient-1">
+            <stop stop-color="#4BC2EE" offset="0%"></stop>
+            <stop stop-color="#4BC2EE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sketch-Landing" transform="translate(-178.000000, -5876.000000)">
+            <g id="p1-copy-2" transform="translate(100.000000, 5773.000000)">
+                <g id="icon-graph" transform="translate(78.000000, 103.000000)">
+                    <circle id="Oval" fill="url(#linearGradient-1)" cx="25" cy="25" r="25"></circle>
+                    <path d="M33.5790406,17.3782422 L25.6698566,15.0247266 C25.5591131,14.9917578 25.4410838,14.9917578 25.3303009,15.0247266 L17.4209594,17.3782422 C17.1711169,17.4525781 17,17.6807031 17,17.9394531 L17,26.5689844 C17,27.6914062 17.4581364,28.8403906 18.36161,29.9840234 C19.0516304,30.8574609 20.0063012,31.7345312 21.1989997,32.5908984 C23.2026623,34.0294922 25.1756853,34.9119922 25.2587035,34.9488281 C25.33546,34.9829297 25.4177694,35 25.5000788,35 C25.5823882,35 25.6646975,34.9829687 25.741454,34.9488281 C25.8244329,34.9119922 27.7974165,34.0294922 29.8010791,32.5908984 C30.9937776,31.7345312 31.9484089,30.8574609 32.6384688,29.9840234 C33.5419423,28.8404297 34,27.6914453 34,26.5689844 L34,17.9394531 C34,17.6807031 33.8289619,17.4525781 33.5790406,17.3782422 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

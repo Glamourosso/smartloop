@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="260px" height="520px" viewBox="0 0 260 520" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Combined Shape</title>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sketch-Landing" transform="translate(-1236.000000, -248.000000)" fill="#0099FF">
+            <path d="M1495.999,248 L1495.999,768 C1365.99933,767.999403 1236,651.593667 1236,508 C1236,364.405965 1352.40597,248 1496,248 L1495.999,248 Z" id="Combined-Shape" transform="translate(1366.000000, 508.000000) rotate(-180.000000) translate(-1366.000000, -508.000000) "></path>
+        </g>
+    </g>
+</svg>
